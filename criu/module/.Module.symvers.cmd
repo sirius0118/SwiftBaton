@@ -1,0 +1,1 @@
+cmd_/home/k8s/exper/zxz/live_migration/criu/module/Module.symvers := sed 's/\.ko$$/\.o/' /home/k8s/exper/zxz/live_migration/criu/module/modules.order | scripts/mod/modpost -m -a  -o /home/k8s/exper/zxz/live_migration/criu/module/Module.symvers -e -i Module.symvers   -T -

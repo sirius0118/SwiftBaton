@@ -1,0 +1,1 @@
+cmd_/home/k8s/exper/zxz/live_migration/criu/module/AccessCollector.o := ld  -m elf_x86_64 -z noexecstack     -r -o /home/k8s/exper/zxz/live_migration/criu/module/AccessCollector.o /home/k8s/exper/zxz/live_migration/criu/module/collect-access.o /home/k8s/exper/zxz/live_migration/criu/module/access-area.o
